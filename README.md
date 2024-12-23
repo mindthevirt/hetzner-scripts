@@ -7,7 +7,7 @@ While this was created for Hetzner Cloud instances, it will work for any Ubuntu 
 * Ubuntu 22.04
 * NGINX
 * MYSQL-SERVER
-* PHP 7.4 -> php7.4-cli php7.4-common php7.4-json php7.4-opcache php7.4-mysql php7.4-mbstring php7.4-mcrypt php7.4-zip
+* PHP 8.2 -> php8.2-cli php8.2-common php8.2-json php8.2-opcache php8.2-mysql php8.2-mbstring php8.2-mcrypt php8.2-zip
 * Domains pointing at ubuntu server with A and CNAME record
 
 ## Setup New Wordpress Site
